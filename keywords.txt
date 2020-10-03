@@ -1,0 +1,67 @@
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+#Pstring::pstring
+Pstring	KEYWORD1
+pstring	KEYWORD1
+pwstring	KEYWORD1
+
+#util
+psram_allocator	KEYWORD1
+
+#for std::string
+string	KEYWORD1
+wstring	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+#std::string
+append	KEYWORD2
+assign	KEYWORD2
+at	KEYWORD2
+back	KEYWORD2
+begin	KEYWORD2
+c_str	KEYWORD2
+capacity	KEYWORD2
+cbegin	KEYWORD2
+cend	KEYWORD2
+clear	KEYWORD2
+compare	KEYWORD2
+copy	KEYWORD2
+crbegin	KEYWORD2
+crend	KEYWORD2
+data	KEYWORD2
+empty	KEYWORD2
+end	KEYWORD2
+erase	KEYWORD2
+find	KEYWORD2
+find_first_of	KEYWORD2
+find_first_not_of	KEYWORD2
+find_last_of	KEYWORD2
+find_last_not_of	KEYWORD2
+front	KEYWORD2
+get_allocator	KEYWORD2
+insert	KEYWORD2
+length 	KEYWORD2
+max_size	KEYWORD2
+npos	KEYWORD2
+pop_back	KEYWORD2
+push_back	KEYWORD2
+rbegin	KEYWORD2
+rend	KEYWORD2
+replace	KEYWORD2
+reserve	KEYWORD2
+resize	KEYWORD2
+rfind	KEYWORD2
+shrink_to_fit	KEYWORD2
+size	KEYWORD2
+substr	KEYWORD2
+swap	KEYWORD2
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################

@@ -1,0 +1,15 @@
+{
+  "name": "Pstring",
+  "description": "Store large dynamic std::string objects in ESP32 PSRAM",
+  "keywords": "string,PSRAM",
+  "authors":{
+    "name": "happyme531"
+  },
+  "repository":{
+    "type": "git",
+    "url": "https://github.com/happyme531/Pstring.git"
+  },
+  "version": "0.0.1",
+  "framework": "arduino",
+  "platforms": "espressif32"
+}
